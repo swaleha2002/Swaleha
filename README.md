@@ -46,13 +46,17 @@ I am a passionate **Data Analyst** with expertise in:
 🔹 Analyzed booking trends and cancellation patterns using Excel.
 
 ## 📊 Featured Dashboards
-🔗 **[Tableau Public](https://public.tableau.com/app/profile/yourprofile)** (Link to your Tableau projects)  
 🔗 **[Power BI Reports](https://app.powerbi.com/view?r=yourreportlink)** (Link to your Power BI reports)
+
+## 📂 Blogs
+🔗 **How to clean raw data like a Pro!**: [Link](https://medium.com/@mullaswaleha402/how-to-clean-raw-data-like-a-pro-abb398dd8a36) 
+🔗 **Choosing the Right Chart for Visualization**: [Link](https://medium.com/@mullaswaleha402/choosing-the-right-chart-for-visualization-f52e29868b5b) 
+🔗 **SEO Performance: Top 10 Ways to Improve SEO Ranking**: [Link](https://medium.com/@mullaswaleha402/seo-performance-top-10-ways-to-improve-seo-ranking-b2901501543c) 
 
 ## 📬 Contact Me
 📧 **Email**: your.email@example.com  
-🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🔗 **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/swaleha-begum-mulla-187787324/)  
+🔗 **GitHub**: [github.com/yourusername](https://github.com/swaleha2002)
 
 ---
 💡 *Always exploring data to uncover actionable insights!*
