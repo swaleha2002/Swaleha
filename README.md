@@ -24,14 +24,17 @@ I am a passionate **Data Analyst** with expertise in:
 ### 1️⃣ **Sales Analysis Project**
 📌 **Tools Used**: SQL Server, Power BI, Python  
 🔹 Performed sales trend analysis, customer behavior insights, and performance tracking.
+  [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWVjZGVhMGMtZTNlZS00ODUzLWJiMTctYWQyNzk0NWU0YjJjIiwidCI6ImIyOWMyYzJjLTJiYWUtNDQzMy1iMmQzLTgyNDM1ZGY3YmFlZCJ9)
 
 ### 2️⃣ **EdTech Course Analysis**
 📌 **Tools Used**: Power BI, Advanced DAX  
 🔹 Built an interactive dashboard analyzing course enrollments, engagement, and revenue.
-
+  [View the Dashboard]( https://app.powerbi.com/view?r=eyJrIjoiMjliNTljOTItM2I1NC00YjQ0LWI2N2MtZTZkZmZiOGE1YWFjIiwidCI6ImIyOWMyYzJjLTJiYWUtNDQzMy1iMmQzLTgyNDM1ZGY3YmFlZCJ9)
+  
 ### 3️⃣ **Customer Churn Analysis**
 📌 **Tools Used**: Python, Machine Learning, SQL Server, Power BI  
 🔹 Predicted customer churn using ML models and visualized insights in Power BI.
+[View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmIzYmJiNDQtNzBlMC00YWE0LWFhOGMtNzYzOTQxYzcwNjhmIiwidCI6ImIyOWMyYzJjLTJiYWUtNDQzMy1iMmQzLTgyNDM1ZGY3YmFlZCJ9&pageName=b3053b0f9fbc6471899b)
 
 ### 4️⃣ **YouTube Web Scraping & Analysis**
 📌 **Tools Used**: Python, Pandas  
@@ -40,13 +43,16 @@ I am a passionate **Data Analyst** with expertise in:
 ### 5️⃣ **Health & Safety Excel Project**
 📌 **Tools Used**: Excel (Data Cleaning & Dashboard)  
 🔹 Cleaned raw data and built a dashboard for workplace health & safety insights.
+[View on OneDrive](https://1drv.ms/x/s!Ai10FFtmv6QYolzHr5qL3L8ffomm?e=RQWTY1)
 
 ### 6️⃣ **Hotel Booking & Cancellation Analysis**
 📌 **Tools Used**: Excel (Data Cleaning & Analysis)  
 🔹 Analyzed booking trends and cancellation patterns using Excel.
+[View on OneDrive](https://1drv.ms/x/s!Ai10FFtmv6QYoggDudUHF9cdmQdn?e=ZveTdh)
+
 
 ## 📊 Featured Dashboards
-🔗 **[Power BI Reports](https://app.powerbi.com/view?r=yourreportlink)** (Link to your Power BI reports)
+🔗 **[Power BI Reports](https://app.powerbi.com/view?r=yourreportlink)**
 
 ## 📂 Blogs
 🔗 **How to clean raw data like a Pro!**: [Link](https://medium.com/@mullaswaleha402/how-to-clean-raw-data-like-a-pro-abb398dd8a36) 
