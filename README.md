@@ -60,9 +60,9 @@ I am a passionate **Data Analyst** with expertise in:
 🔗 **SEO Performance: Top 10 Ways to Improve SEO Ranking**: [Link](https://medium.com/@mullaswaleha402/seo-performance-top-10-ways-to-improve-seo-ranking-b2901501543c) 
 
 ## 📬 Contact Me
-📧 **Email**: your.email@example.com  
-🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/swaleha-begum-mulla-187787324/)  
-🔗 **GitHub**: [github.com/yourusername](https://github.com/swaleha2002)
+📧 **Email**: swalehabegum1111@gmail.com
+🔗 **LinkedIn**: [Open](https://www.linkedin.com/in/swaleha-begum-mulla-187787324/)  
+🔗 **GitHub**: [Open](https://github.com/swaleha2002)
 
 ---
 💡 *Always exploring data to uncover actionable insights!*
