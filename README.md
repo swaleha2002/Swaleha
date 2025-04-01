@@ -1,33 +1,25 @@
-# 📊 Data Analyst Portfolio
+<h1 align="center">Hi 👋, I'm Swaleha Begum Mulla</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-Welcome to my Data Analyst portfolio! Here, you'll find a collection of my projects, showcasing my expertise in data analysis, visualization, and storytelling with data. My work involves extracting meaningful insights from complex datasets using various tools and techniques.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swaleha2002&label=Profile%20views&color=0e75b6&style=flat" alt="swaleha2002" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaleha2002" alt="swaleha2002" /></a> </p>
 
-## 🔍 About Me
+- 🌱 I’m currently learning **Power BI-Advanced DAX,Cloud Data Solutions (AWS, Azure)**
 
-👋 I am a passionate **Data Analyst** with expertise in:
-- 📈 **Exploratory Data Analysis (EDA)**
-- 🧹 **Data Cleaning and Wrangling**
-- 📊 **Statistical Analysis & Data Visualization**
-- 🏢 **Business Intelligence (BI)**
-- 🛢️ **SQL, Python, R, Excel**
-- 🤖 **Machine Learning (Basic)**
+- 👨‍💻 All of my projects are available at [(https://github.com/swaleha2002?tab=repositories)]((https://github.com/swaleha2002?tab=repositories))
 
----
+- 📝 I regularly write articles on [https://medium.com/@mullaswaleha402](https://medium.com/@mullaswaleha402)
 
-## 🛠️ Tools & Technologies
+- 💬 Ask me about **- SQL, Python, Power BI, Advanced Excel - Machine Learning (Supervised & Unsupervised) - Data Storytelling & Visualization**
 
-💻 **Programming Languages**: Python, R, SQL  
-📊 **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
-🗄️ **Databases**: SQL Server, MySQL, PostgreSQL  
-📜 **Excel**: Advanced Formulas, Pivot Tables, VBA  
-🤖 **Machine Learning**: Scikit-learn, Pandas, NumPy  
-🔧 **Version Control**: Git, GitHub  
+- 📫 How to reach me **Email: swalehabegum1111@gmail.com 🔗 LinkedIn: https://www.linkedin.com/in/swaleha-begum-mulla-187787324/) 🔗 GitHub: https://github.com/swaleha2002**
 
----
+- 📄 Know about my experiences [https://www.linkedin.com/in/swaleha-begum-mulla-187787324/](https://www.linkedin.com/in/swaleha-begum-mulla-187787324/)
 
-## 📂 Projects
+- ⚡ Fun fact **I think I am funny 😄**
+
+- ## 📂 Projects
 
 ### 1️⃣ **Sales Analysis Project**
 📌 **Tools Used**: SQL Server, Power BI, Python  
@@ -71,12 +63,22 @@ Welcome to my Data Analyst portfolio! Here, you'll find a collection of my proje
 📢 **[SEO Performance: Top 10 Ways to Improve SEO Ranking](https://medium.com/@mullaswaleha402/seo-performance-top-10-ways-to-improve-seo-ranking-b2901501543c)**  
 
 ---
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 📬 Contact Me
-📧 **Email**: [swalehabegum1111@gmail.com](mailto:swalehabegum1111@gmail.com)  
-🔗 **LinkedIn**: [View Profile](https://www.linkedin.com/in/swaleha-begum-mulla-187787324/)  
-🔗 **GitHub**: [View Repositories](https://github.com/swaleha2002)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaleha2002&show_icons=true&locale=en&layout=compact" alt="swaleha2002" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swaleha2002&show_icons=true&locale=en" alt="swaleha2002" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/swaleha-begum-mulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swaleha-begum-mulla" height="30" width="40" /></a>
+<a href="https://medium.com/@mullaswaleha402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mullaswaleha402" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/swaleha begum mulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swaleha begum mulla" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/swalehabegum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swalehabegum" height="30" width="40" /></a>
+</p>
 
 💡 *Always exploring data to uncover actionable insights!* 🚀
+
+
+
